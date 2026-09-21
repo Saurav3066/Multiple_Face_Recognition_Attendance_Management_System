@@ -41,3 +41,4 @@ For any issues or inquiries, feel free to contact the repository owner SAURAV AN
 
 
 Project Structure Diagram:
+<img width="6215" height="5148" alt="diagram" src="https://github.com/user-attachments/assets/b6fb93f5-0e70-4057-8b03-b64f1a771d49" />
